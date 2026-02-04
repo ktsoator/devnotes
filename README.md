@@ -1,11 +1,5 @@
 # DevNotes 📚
 
-<div align="right">
-
-**Languages**: [English](README.md) | [简体中文](README.zh-CN.md)
-
-</div>
-
 > Personal technical learning notes, experience summaries, and code examples repository
 
 A systematic knowledge base for recording notes, diagrams, practical experience, and code examples during the learning process.
@@ -83,12 +77,9 @@ The main storage area for technical knowledge notes, organized by knowledge doma
 #### `topics/cs/` - Computer Science Fundamentals
 
 ##### `network/` - Computer Networks
+- [Web Security: CORS](topics/cs/network/cors.md)
 - HTTP/HTTPS protocol
 - TCP/UDP
-- **Cross-Origin Resource Sharing (CORS)**
-- WebSocket
-- DNS resolution
-- Network security
 
 ##### `os/` - Operating Systems
 - Processes and threads
@@ -116,12 +107,9 @@ The main storage area for technical knowledge notes, organized by knowledge doma
 - Frontend security
 
 ##### `backend/` - Backend Development
+- [Core Architecture: Middleware](topics/web/backend/middleware.md)
 - Programming languages (Go, Node.js, Python, etc.)
 - Web frameworks
-- Databases (SQL/NoSQL)
-- API design
-- Authentication and authorization
-- Middleware configuration
 
 ---
 
